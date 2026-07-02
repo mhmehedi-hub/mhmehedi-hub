@@ -6,7 +6,6 @@
   <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm MD Mehedi Hasan</h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Web%20Devloper)](https://git.io/typing-svg)
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=mhmehedi-hub">
     <img src="https://komarev.com/ghpvc/?username=mhmehedi-hub&label=Profile%20views&color=00FFFF&style=flat-square" alt="mhmehedi-hub's profile views" />
