@@ -37,3 +37,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 - Certifications: ["AWS Solutions Architect Professional"]
 - Awards: [Any notable awards]
 
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
