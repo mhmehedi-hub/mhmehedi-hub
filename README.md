@@ -32,4 +32,8 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 [![](https://komarev.com/ghpvc/?username=mhmehedi-hub&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🎓 EDUCATION & CERTIFICATIONS
+- Degrees: [e.g., "MS Computer Science - Stanford"]
+- Certifications: [e.g., "AWS Solutions Architect Professional"]
+- Awards: [Any notable awards]
 
