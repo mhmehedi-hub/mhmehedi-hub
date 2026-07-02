@@ -11,6 +11,8 @@
     <img src="https://komarev.com/ghpvc/?username=mhmehedi-hub&label=Profile%20views&color=00FFFF&style=flat-square" alt="mhmehedi-hub's profile views" />
   </a>
 </p>
+</div>
+
 ![About](https://capsule-render.vercel.app/api?type=rect&color=auto&height=40&section=header&text=About%20Me&fontSize=22&fontColor=fff)
 
 Passionate full-stack developer with a knack for turning complex problems into elegant solutions. I thrive in collaborative environments and love to share knowledge while exploring new technologies.
@@ -19,6 +21,7 @@ Passionate full-stack developer with a knack for turning complex problems into e
 - 🌱 Currently learning **Deepening my understanding of cloud computing and microservices architecture.**
 - 💬 Ask me about **JavaScript, React hooks, and building RESTful APIs.**
 - ⚡ I once hiked the Appalachian Trail and coded my way through the journey!
+
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/mhmehedi-hub">
