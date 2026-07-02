@@ -1,6 +1,13 @@
 ![Web Developer](https://pbs.twimg.com/profile_banners/1380506445532127234/1782979908/1500x500)
-### Hi there 👋, I'm Mehedi
-#### Web Developer
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
+
+# Hey, I'm MD Mehedi Hasan!
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Web%20Devloper)](https://git.io/typing-svg)
+
+</div>
 
 MERN Stack Developer | React.js, Node.js, MongoDB | Passionate about building scalable web applications.
 
