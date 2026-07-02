@@ -33,7 +33,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ### 🎓 EDUCATION & CERTIFICATIONS
-- Degrees: [e.g., "MS Computer Science - Stanford"]
-- Certifications: [e.g., "AWS Solutions Architect Professional"]
+- Degrees: ["MS Computer Science - Stanford"]
+- Certifications: ["AWS Solutions Architect Professional"]
 - Awards: [Any notable awards]
 
